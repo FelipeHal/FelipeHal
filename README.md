@@ -1,12 +1,11 @@
-### Hi there! I'm Luiz Felipe Fonseca 👋
+## Hi there! I'm Luiz Felipe Fonseca 👋
+
+- 🔭 I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area!
+- 🌱 I'm currently learning Angular, C# and .Net Core.
 
 
-- 🌱 I’m currently learning Angular, C# and .Net Core
-
-
+### Language and Tools
 <div style="display: inline_block"><br>
-  <img align="left" alt="Visual Studio Code" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="Visual Studio" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="left" alt="C#" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt=".NET Core" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="left" alt="HTML5" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -15,6 +14,8 @@
   <img align="left" alt="JavaScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="left" alt="Angular" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="left" alt="Canva" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="left" alt="Visual Studio Code" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="Visual Studio" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 
 <br />
@@ -29,7 +30,7 @@
 <br />
 <br />
   
-## How to reach me
+### How to reach me
 
 <div>
   <a href="https://www.linkedin.com/in/luizfelipesfonseca" target="_blank"><img align="left" alt="Luiz Felipe Fonseca | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -42,7 +43,7 @@
 **FelipeHal/FelipeHal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Intro em pt "Sou um biólogo que encontrou uma nova paixão na programação, e atualmente está procurando se inserir nessa nova área!"
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
