@@ -2,7 +2,7 @@
 
 I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area as a developer!
 
-- I'm a student at <a href="https://www.alura.com.br">Alura Cursos Online</a>. 
+- I'm a student at <a href="https://www.alura.com.br" target="_blank">Alura Cursos Online</a>.
 - 🌱 I'm currently learning Angular, C# and .Net Core.
 
 
