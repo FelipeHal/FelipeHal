@@ -5,6 +5,16 @@ I’m a Biologist who has found a new passion in programming, and is currently l
 - 🎓 I'm a student at <a href="https://www.alura.com.br" target="_blank">Alura Cursos Online</a>.
 - 🌱 I'm currently learning Angular, C# and .Net Core.
 
+<br />
+
+### How to reach me
+
+<div>
+  <a href="https://www.linkedin.com/in/luizfelipesfonseca"><img align="left" alt="Luiz Felipe Fonseca | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+</div>
+
+<br />
+<br />
 
 ### Language and Tools
 <div style="display: inline_block"><br>
@@ -22,21 +32,17 @@ I’m a Biologist who has found a new passion in programming, and is currently l
 
 <br />
 <br />
+<br />
+<br />
 
 <div>
   <a href="https://github.com/FelipeHal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipehal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehal&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-  
-<br />
-<br />
-  
-### How to reach me
 
-<div>
-  <a href="https://www.linkedin.com/in/luizfelipesfonseca"><img align="left" alt="Luiz Felipe Fonseca | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-</div>
+  
+
 
 
 
