@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luiz Felipe Fonseca 👋
 
-Sou um biólogo que encontrou uma nova paixão na programação, e atualmente está procurando se inserir nessa nova área!
+Sou um biólogo que encontrou uma nova paixão na programação, e atualmente estou estudando e trabalhando como desenvolvedor!
 
 - 🎓 Sou aluno na <a href="https://www.alura.com.br" target="_blank">Alura Cursos Online</a>.
 - 🌱 Estou atualmente aprendendo Angular, C# and .Net Core.
