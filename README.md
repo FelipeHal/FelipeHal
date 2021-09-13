@@ -2,7 +2,7 @@
 
 I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area as a developer!
 
-- I'm a student at <a href="https://www.alura.com.br" target="_blank">Alura Cursos Online</a>. 
+- I'm a student at <a href="https://www.alura.com.br">Alura Cursos Online</a>. 
 - 🌱 I'm currently learning Angular, C# and .Net Core.
 
 
@@ -35,7 +35,7 @@ I’m a Biologist who has found a new passion in programming, and is currently l
 ### How to reach me
 
 <div>
-  <a href="https://www.linkedin.com/in/luizfelipesfonseca" target="_blank"><img align="left" alt="Luiz Felipe Fonseca | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/luizfelipesfonseca"><img align="left" alt="Luiz Felipe Fonseca | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </div>
 
 
