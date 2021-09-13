@@ -1,6 +1,6 @@
 ## Hi there! I'm Luiz Felipe Fonseca 👋
 
-- 🔭 I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area!
+- 🔭 I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area as a developer!
 - 🌱 I'm currently learning Angular, C# and .Net Core.
 
 
