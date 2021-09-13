@@ -37,8 +37,8 @@ I’m a Biologist who has found a new passion in programming, and is currently l
 
 <div>
   <a href="https://github.com/FelipeHal">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipehal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehal&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img align="left" height="180em" style="width: 470px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=felipehal&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" style="width: 344px; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehal&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
   
