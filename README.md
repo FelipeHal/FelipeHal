@@ -2,7 +2,7 @@
 
 <a href="https://github.com/FelipeHal/FelipeHal/blob/main/readme_PT-BR.md"><img height="20px" width="20px" src="https://www.svgrepo.com/show/168231/brazil.svg">Português-BR</a>
 
-I’m a Biologist who has found a new passion in programming, and is currently looking forward to enter this new area as a developer!
+I’m a Biologist who has found a new passion in programming, and is currently working and studying as a developer!
 
 - 🎓 I'm a student at <a href="https://www.alura.com.br" target="_blank">Alura Cursos Online</a>.
 - 🌱 I'm currently learning Angular, C# and .Net Core.
